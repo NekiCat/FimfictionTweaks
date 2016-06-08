@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name Fimfiction Tweaks
+// @author TigeR
 // @version 0.1
 // @description Introduces small tweaks and improvements into fimfiction.net
 // @copyright 2016, TigeR
